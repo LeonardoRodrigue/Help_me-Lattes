@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HelpMe</title>
+
+    <link rel="shortcut icon" href="images/help1.png" type="image">
+    <link rel="stylesheet" href="css/style.css">
+
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css"/>
+
+  
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+</head>
+<body>
+   
+    <header class="header">
+        <a href="#" class="logo">
+            <img src="images/help1.png" class="logo2" style="height: 30px; width: 30px;"/>
+            HelpMe
+        </a>
+
+        <nav class="navbar">
+            <div id="close-navbar" class="fas fa-times"></div>
+            <a href="#">Inicio</a>
+            <a href="lattes.html">Sobre</a>
+            <a href="aulas.html">Aulas</a>
+            <a href="contato.html">Contate-nos</a>
+        </nav>
+
+        <div class="icons">
+            <div id="account-btn" class="fas fa-user"></div>
+            <div id="menu-btn" class="fas fa-bars"></div>
+        </div>
+    </header>
+    
+    <div class="account-form">
+
+        <div id="close-form" class="fas fa-times"></div>
+
+        <div class="buttons">
+            <span class="btn active login-btn">login</span>
+            <span class="btn register-btn">Registre-se</span>
+        </div>
+        <form class="login-form active" action="">
+            <h3>Entre agora</h3>
+            <input type="email" placeholder="Entre com seu email" class="box">
+            <input type="password" placeholder="Entre com sua senha" class="box">
+            <div class="flex">
+                <input type="checkbox" name="" id="remember-me">
+                <label for="remember-me">Relembre-me</label>
+                <a href="#">Redefinir senha</a>
+            </div>
+            <input type="submit" value="Entre agora" class="btn">
+        </form>
+
+        <form class="register-form" action="">
+            <h3>Registre-se agora</h3>
+            <input type="email" placeholder="Entre com seu email" class="box">
+            <input type="password" placeholder="Entre com sua senha" class="box">
+            <input type="password" placeholder="Confirme sua senha" class="box">
+            <input type="submit" value="Registre-se agora" class="btn">
+        </form>
+    </div> 
+    
+    <section class="home">
+        <div class="swiper mySwiper">
+            <div class="swiper-wrapper">
+
+                <section class="swiper-slide" style="background: url(images/home-slide-1.jpg) no-repeat;">
+                    <div class="content">
+                        <h3>    
+                            Perguntas Que Você Sempre Teve, Mas Nunca Teve Coragem de Fazer.</h3>
+                        <p>
+                            Nosso principal objetivo é fornecer assistência aos graduandos e recém-formados, oferecendo
+                            informações essenciais para suas vidas acadêmica e profissional, aspectos muitas vezes negligenciados
+                            pelas instituições de ensino. 
+                        </p>
+                        <a href="#" class="btn">Iniciar</a>
+                    </div>            
+                </section>
+            </div>
+
+            <div class="swiper-pagination"></div>
+
+        </div>
+    </section>
+
+
+    <section class="subjects">
+        <h1 class="heading">Principais Assuntos</h1>
+
+        <div class="box-container">
+
+            <div class="box">
+                <img src="images/lattes.png" alt="">
+                <h3>Preenchendo Lattes</h3>
+                <p>14 Módulos</p>
+            </div>
+
+            <div class="box">
+                <img src="images/regras.png" alt="">
+                <h3>Normas ABNT</h3>
+                <p>22 Módulos</p>
+            </div>
+
+            <div class="box">
+                <img src="images/estagio.png" alt="">
+                <h3>Estagiando</h3>
+                <p>30 Módulos</p>
+            </div>
+
+            <div class="box">
+                <img src="images/entrevista.png" alt="">
+                <h3>Entrevista</h3>
+                <p>25 Módulos</p>
+            </div>
+
+            <div class="box">
+                <img src="images/curriculos.png" alt="">
+                <h3>Curriculum Vitae</h3>
+                <p>20 Módulos</p>
+            </div>
+
+            <div class="box">
+                <img src="images/pesquisa.png" alt="">
+                <h3>Iniciação Científica</h3>
+                <p>30 Módulos</p>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <section class="footer">
+        <div class="box-container">
+            <div class="box">
+                <h3><i class="fas fa-lightbulb">Onde estamos?</i></h3>
+                <p>Escola Superior Dom Helder Câmara, Belo Horizonte, Brasil</p>
+                <div class="share">
+                    <a href="#" class="fab fa-whatsapp"></a>
+                    <a href="#" class="fab fa-facebook-f"></a>
+                    <a href="#" class="fab fa-twitter"></a>
+                    <a href="#" class="fab fa-instagram"></a>
+                    <a href="#" class="fab fa-linkedin"></a>
+                </div>
+            </div>
+
+            <div class="box">
+                <h3>Links</h3>
+                <a href="index.html" class="link">Inicio</a>
+                <a href="lattes.html" class="link">Sobre</a>
+                <a href="aulas.html" class="link">Lattes</a>
+                <a href="contato.html" class="link">Aulas</a>
+            </div>
+
+            <div class="box">
+                <h3>Ferramentas Interessantes</h3>
+                <a href="#" class="link">Fale conosco</a>
+                <a href="#" class="link">FAQs</a>
+                <a href="#" class="link">Dê sua opinião</a>
+                <a href="#" class="link">Politica de Privacidade</a>
+            </div>
+
+            <div class="box">
+                <h3>Central de Notícias</h3>
+                <p>Inscreva-se para receber as novidades</p>
+                <form action="">
+                    <input type="email" name="" placeholder="Insira o email" id="" class="email">
+                    <input type="submit" value="inscreva-se" class="btn">
+                </form>
+            </div>
+        </div> 
+
+        <div class="credit"><h6>Copyright © 2024 Helpme. Direitos Reservados</h6></div>
+    </section>
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
+
+   
+   <script src="js/script.js"></script>
+</body>
+</html>
