@@ -16,7 +16,7 @@ Vocês podem se perguntar: qual o diferencial de vocês e por que investiria em 
 Nosso site foi projetado para oferecer uma experiência intuitiva e informativa, dividido em quatro seções principais:
 
 1. Tela Inicial
-   A porta de entrada do nosso site! Aqui, você encontrará uma visão geral e todas as informações iniciais necessárias para começar a explorar.
+   <br>A porta de entrada do nosso site! Aqui, você encontrará uma visão geral e todas as informações iniciais necessárias para começar a explorar.
 
 ![image](https://github.com/LeonardoRodrigue/Trabalho_Front/assets/137435258/2db384b3-3f33-447d-80f4-dddbcf0ea1a2)
 
