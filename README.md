@@ -23,7 +23,8 @@ Nosso site foi projetado para oferecer uma experiência intuitiva e informativa,
 2. Sobre Nós
    <br>Quer saber quem somos? Esta seção oferece uma explicação detalhada sobre nossa missão e atividades. Conheça nossa equipe com fotos e nomes, e leia os feedbacks dos nossos usuários satisfeitos.
 
-![Design sem nome](https://github.com/LeonardoRodrigue/Trabalho_Front/assets/137435258/c790c203-a96b-4ef7-8c4e-036e92089486)
+![image](https://github.com/LeonardoRodrigue/Trabalho_Front/assets/137435258/c2c935c8-87c0-46af-8fea-05eca1ace73e)
+![image](https://github.com/LeonardoRodrigue/Trabalho_Front/assets/137435258/81013540-2896-4fee-9485-e1467f9825aa)
 
 3. Aulas
    <br>Aqui é onde a mágica acontece! Acesse todas as nossas aulas e conteúdos exclusivos. Tudo disponível para você aprender e crescer no seu próprio ritmo.
