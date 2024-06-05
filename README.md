@@ -1,4 +1,4 @@
-Help me: Lattes
+<b>Help me: Lattes</b>
 
 Saudações, 
 Somos a HelpMe, uma startup formada pelos alunos de Ciências da Computação Arthur Victor, Heitor Monteiro, Hugo Horta, Leonardo Rodrigues e Rodrigo Paulinelli. Nossa empresa tem como objetivo auxiliar graduandos e graduados com questões que possuem dificuldades ao longo da vida acadêmica e, na maioria dos cursos superiores não há disciplinas que auxiliem para sanar essas dúvidas.
