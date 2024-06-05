@@ -37,7 +37,6 @@ Nosso site foi projetado para oferecer uma experiência intuitiva e informativa,
 ![image](https://github.com/LeonardoRodrigue/Trabalho_Front/assets/137435258/0dc8c7b5-ff39-4592-8eb5-990daaf4c0cb)
 
 Rodapés
-
 <br>Em cada página, nossos rodapés contêm informações adicionais, como nossa localização e links para nossas redes sociais: WhatsApp, Facebook, Twitter, Instagram e LinkedIn. Não esqueça de cadastrar seu e-mail para receber atualizações diretamente na sua caixa de entrada!
 
 ![image](https://github.com/LeonardoRodrigue/Trabalho_Front/assets/137435258/a697c1cd-a2d5-4dce-881d-05979c3fa119)
